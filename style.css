@@ -54,6 +54,17 @@ h1 {
     grid-area: image;
     max-height: 100px; 
 }
+.searchWrapper {
+    position:relative;    
+
+}
+
+.searchWrapper .fa{
+    position:absolute;
+    top:12px;
+    right: 15px;
+    color:rgb(105, 103, 103);
+}
 
 #searchBar {
     width: 100%;
